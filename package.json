@@ -1,0 +1,7 @@
+{
+  "name": "test-repo-to-migrate-to-github",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "ayushk048-Tandem <akholiya@tandemdiabetes.com>",
+  "license": "MIT"
+}
